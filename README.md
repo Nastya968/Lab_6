@@ -1,1 +1,4 @@
-# Lab_6
+# Devops Hometask6
+
+## Usage:
+*** vagrant up ***
